@@ -30,6 +30,7 @@ Installation
     pip install vtc_scrypt  # for scryptn support
     pip install drk_hash  # for x11 support
     pip install ltc_scrypt  # for scrypt support
+    pip install redis  # for redis support
 
 Now copy ``config.yml.example`` to ``config.yml``. Fill out all required fields
 and you should be good to go for testing. 
